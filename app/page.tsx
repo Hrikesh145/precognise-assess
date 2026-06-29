@@ -35,7 +35,7 @@ export default function HomePage() {
           you&apos;re up. go secure the bag.
         </div>
         <h1 className="mx-auto max-w-3xl text-5xl font-extrabold leading-[1.15] tracking-tight text-white md:text-6xl">
-          show &apos;em what you&apos;re <span className="text-white/60">actually</span> made of.
+          Show &apos;em what you&apos;re <span className="text-white/60">actually</span> made of.
         </h1>
         <p className="mx-auto mt-5 max-w-lg text-lg leading-relaxed text-white/72">
           no cap — PreCognise gives every candidate the exact same shot. structured, scientific, and lowkey stress-free. no tricks. just your best work hitting different.
